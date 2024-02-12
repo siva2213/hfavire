@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hfavire/static/css/main.ffc46473.css",
-    "main.js": "/hfavire/static/js/main.0a1b652c.js",
+    "main.css": "/hfavire/static/css/main.865fd745.css",
+    "main.js": "/hfavire/static/js/main.acf3b641.js",
     "static/js/592.500c7081.chunk.js": "/hfavire/static/js/592.500c7081.chunk.js",
     "static/media/ftr_phones.png": "/hfavire/static/media/ftr_phones.0f4b81ef15ea0cc0c57e.png",
     "static/media/smartphone3.png": "/hfavire/static/media/smartphone3.d4b91efbcb8577419856.png",
@@ -14,12 +14,12 @@
     "index.html": "/hfavire/index.html",
     "static/media/contentwave.svg": "/hfavire/static/media/contentwave.5099f0932dc543339378.svg",
     "static/media/footerwave.svg": "/hfavire/static/media/footerwave.aa3be0e9eae41ffccbd4.svg",
-    "main.ffc46473.css.map": "/hfavire/static/css/main.ffc46473.css.map",
-    "main.0a1b652c.js.map": "/hfavire/static/js/main.0a1b652c.js.map",
+    "main.865fd745.css.map": "/hfavire/static/css/main.865fd745.css.map",
+    "main.acf3b641.js.map": "/hfavire/static/js/main.acf3b641.js.map",
     "592.500c7081.chunk.js.map": "/hfavire/static/js/592.500c7081.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffc46473.css",
-    "static/js/main.0a1b652c.js"
+    "static/css/main.865fd745.css",
+    "static/js/main.acf3b641.js"
   ]
 }
