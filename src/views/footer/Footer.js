@@ -14,18 +14,14 @@ const Footer = () => {
           <div className="ftr-abt-ttl">
             <p className="ftr-left-ttl1">About</p>
             <h4 className="ftr-left-ttl2">
-              Hfavire <span className="sub-name">Iauiv Rlua</span>
+              Dentist  <span className="sub-name">India Plus</span>
             </h4>
           </div>
           <img src={footerimg} alt="image" className="ftr-img1" />
         </div>
         <div className="ftr-mdl">
           <p className="ftr-mdl-txt1">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-            vulputate libero et velit interdum, ac aliquet odio mattis. Class
-            aptent taciti sociosqu ad litora torquent per conubia nostra, per
-            inceptos himenaeos. Curabitur tempus urna at turpis condimentum
-            lobortis.
+            Dentist India Plus is one of the top most dentist brand in the country and serving in more than 60+ cities. Quality and high standards of treatment has been the motto from the inception and allowed the brand to become a household name !.
           </p>
           <div>
             <p className="ftr-avbl">Available Soon On</p>

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Header.css";
 import { CiSettings } from "react-icons/ci";
-import logo from "../../assets/logo.svg";
+import Logo from "../../assets/react-c/logo-icon";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -17,7 +17,7 @@ const Header = () => {
 
   return (
     <div className="hd-main">
-      <img src={logo} alt="hfavire" className="logo" />
+      <Logo className="logo" />
 
       <div className="hd-hamburger" onClick={toggleMenu}>
         {isOpen ? (

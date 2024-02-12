@@ -29,36 +29,36 @@ const RowWithBlocks = () => {
 
   const blocks = [
     {
-      bgColor:  "White",
+      bgColor: "White",
       textColor: "#2B275A",
       icon: <Icon1 />,
       title: "Easy Quick Bookings",
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan.",
+        "Booking at a click. 1 min to book consultation with an expert and get treated. Intuitive designs for patients to access easily.",
     },
     {
-      bgColor:  "#2B275A",
+      bgColor: "#2B275A",
       textColor: "white",
       icon: <Icon2 />,
       title: "Top Rated Doctors",
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan.",
+        "Highly rated doctors has never been so easy to access. Curated list of experts who are experienced professionals to perform with high standards of professionalism.",
     },
     {
-      bgColor:  "White",
+      bgColor: "White",
       textColor: "#2B275A",
       icon: <Icon3 />,
       title: "Secured Payments",
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan.",
+        "Hassle free payment with the reputed payment gateway providers with end-to-end solutions to patients to lock their consultation with the experts.",
     },
     {
-      bgColor:  "#FF902A",
+      bgColor: "#FF902A",
       textColor: "white",
       icon: <Icon4 />,
       title: "Insurance Policy",
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan.",
+        "Insurance for every healthcare needs allows patients to forget worrying about their bills and work for the betterment of their health.",
     },
   ];
 

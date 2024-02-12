@@ -68,9 +68,7 @@ const content = () => {
                 color="#fff"
               />
               <p className="cnt-ratingtxt">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-                eu turpis molestie, dictum est a, mattis tellus. Sed dignissim,
-                metus nec fringilla accumsan.
+                Dentist India Plus has been providing cutting edge medical treatment at a very affordable cost. Technology first approach also makes to monitor the treatment procedure and serve the public with only the best
               </p>
               <div className="cnt-ratingprofile">
                 <p className="cnt-spec">
